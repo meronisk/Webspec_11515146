@@ -3,15 +3,15 @@
 
 ## 學生資訊
 
-學號：(開頭不含s)
+學號：11515146
 
-姓名：(請填寫真實姓名)
+姓名：李雨閻
 
-GitHub名稱：(在GitHub的名稱)
+GitHub名稱：meronisk
 
-儲存庫名稱(Spec)：WebSpec_(學號不含s)
+儲存庫名稱(Spec)：Webspec_11515146
 
-儲存庫名稱(Page)：WebPage_(學號不含s)
+儲存庫名稱(Page)：WebPage_11515146
 
 課程名稱：AI 規格驅動網站開發
 
