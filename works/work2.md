@@ -1,6 +1,7 @@
 # 第2次作業(4%)
 - 學號：11515146
 - 姓名：李雨閻
+- 信箱：a0908871313@gmail.com
 
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
