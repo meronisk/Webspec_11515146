@@ -55,10 +55,10 @@
 
 ## 評分方式
 - 檢查項目：完成後請打勾
-    - [ ] 在VSCode上修改/WebSpec_學號/works/work3.md：填寫學號、姓名，並同步於在GitHub上
-    - [ ] 在VSCode使用AI工具以outline.md生成/WebPage_學號/outline/index.html網頁，並同步於在GitHub上
-    - [ ] 在VSCode使用AI工具以refined.md生成/WebPage_學號/refined/index.html網頁，並同步於在GitHub上
-    - [ ] 在VSCode使用AI工具以index.html逆向生成/WebSpec_學號/specs/detail.md網頁規格，並同步於在GitHub上
-    - [ ] 在GitHub上確認以上檔案是否完全同步內容
+    - [ˇ ] 在VSCode上修改/WebSpec_學號/works/work3.md：填寫學號、姓名，並同步於在GitHub上
+    - [ˇ ] 在VSCode使用AI工具以outline.md生成/WebPage_學號/outline/index.html網頁，並同步於在GitHub上
+    - [ ˇ] 在VSCode使用AI工具以refined.md生成/WebPage_學號/refined/index.html網頁，並同步於在GitHub上
+    - [ˇ ] 在VSCode使用AI工具以index.html逆向生成/WebSpec_學號/specs/detail.md網頁規格，並同步於在GitHub上
+    - [ˇ ] 在GitHub上確認以上檔案是否完全同步內容
 > [!important]
 > 請於上課時完成，若未到課同學，請於下次上課(**第4週**)前完成
